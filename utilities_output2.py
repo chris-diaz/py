@@ -1,3 +1,4 @@
+#Script identifies utilities on active campaigns that do not match the offical utilities list in Zeus
 import pandas as pd
 import numpy as np
 import itertools
